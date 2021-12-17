@@ -1,6 +1,6 @@
 # T42
 
-Token42 Finance has lauched their own exchange and pre sale on FEGex with 20% FEGtoken rewards + crypto integrated payment system which will revolutionize the way we trade.
+T42 Finance is a multi-featured Cryptocurrency exchange. With support for multiple Cryptocurrencies, you are able to buy & sell with direct bank transfer, credit cards or any other supported payment gateways. Our goal for this system is to introduce as many features as we consider relevant for crypto traders. To comply with your local KYC & AML laws, it supports flexible KYC verification of your users, as well as the ability to limit trading volumes based on verification status.
 
 T42 Crypto is a platform for future funding of new equity blockchain. Our aim is to integrate companies, employees and business assets into a unified blockchain eco-system that will make business truly efficient, transparent and reliable.
 
@@ -8,33 +8,21 @@ While existing solutions focus on one problem at a time, we can offer multiple s
 
 Our aim is up to build a truly secure, highly useful, & easy-to-use product based on private blockchain foundation inclusive of an easy cryptocurrency payments integration system, and an exclusive digital arbitration system.
 
-FEGtoken rewards to holders 20%
 
-PreSale LIVE on FEGex today: 
-https://presale.fegex.com/?pair=0xac1e5C272b341D7cDe2Edd879f6f1427bD010006
 
-BSC Contract address 0xAD82d0857FF13Bf8CDE3413573d5C5f950C743FE
+Polygon Contract address 0x3A1629BeE95C6BC1BeCdDa64eC3797ec00C5CF16
 
-Token Name Token42
+Token Name T42
 
 Token Symbol T42
 
 Decimals: 18
 
-Circulating supply 13,440,000
+Circulating supply 2,100,000
 
-Max circulating supply 42,000,000
+Max circulating supply 21,000,000
 
-website : https://www.t42.network
-
-FEG Earning dashboard : 
-https://www.t42.app
-
-T42 Exchange : https://www.token42.com/
-
-Crypto payment gateway (underway) with
-api integration into any website:
-https://www.token42.finance
+website : https://www.t42.finance
 
 Telegram: https://t.me/T42_BSC
 
@@ -52,11 +40,9 @@ LinkedIn: https://www.linkedin.com/company/token42-finance-ltd/
 
 BitcoinTalks : https://bitcointalk.org/index.php?topic=5366660.msg58224030#msg58224030
 
-Facebook :
-https://www.facebook.com/T42.network/
+Facebook : https://www.facebook.com/T42.network/
 
-whitepaper : 
-https://t42.network/whitepaper/EN.pdf
+whitepaper : https://t42.finance/EN.pdf
 
 Registered Company in the United Kingdom
 
